@@ -4,5 +4,3 @@ plugins:
     enabled: true
   eslint:
     enabled: true
-    config:
-      config: ./.eslintrc.json
